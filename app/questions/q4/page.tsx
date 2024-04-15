@@ -28,9 +28,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-
       <div>
-
         <p>
         A customer is  just getting started with Vercel and has questions about recommended options for third-party integrations for Monitoring or Logging. Knowing that:
 Vercel has in-house observability products.Vercel likes to guide processes,but Vercel doesn’t like to steer customers towards one solution or another, but demonstrates what the product can do.
@@ -67,7 +65,6 @@ Looking forward to assisting you further and ensuring we find the best solution 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
      
       </div>
-    </main>
      <div>
          <p>&nbsp;</p>
           <p>&nbsp;</p>
