@@ -94,7 +94,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q4{" "}
+            Question 4{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
@@ -104,72 +104,67 @@ export default function Home() {
           </p>
         </a>
  <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/questions/q5"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q5{" "}
+            Questions 5{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-           Imagine that the customer from Question 4 responds with the following email.
+           URL Redirection
           </p>
         </a>
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/questions/q6"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q6{" "}
+            Question 6{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-           Imagine that the customer from Question 4 responds with the following email.
- 							“I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so why don't you just fix it for me instead of asking me questions.”
- 								Write a reply to the customer addressing the concerns raised.
+         Addressing Customer Frustration
           </p>
         </a>
                <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/questions/q7"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q7{" "}
+            Question 7{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-           A customer is  just getting started with Vercel and has questions about recommended options for third-party integrations for Monitoring or Logging. Knowing that:
-Vercel has in-house observability products						 										
-Vercel likes to guide processes,but Vercel doesn’t like to steer customers towards one solution or another, but demonstrates what the product can do. 										
-How would you respond to the customer?
+          Overages Query
           </p>
         </a>
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/questions/q8"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q8{" "}
+            Question 8{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-           A  customer new to Next.js and Vercel, asks about overages regarding serverless function execution. What would be the best way to help mitigate this? Feel free to use AI to help supplement your answer, but only use AI to help guide your answer and put it into your own words. You can help the customer by providing Vercel or Next.js resources if necessary.
+         Familiarisation Exercise Feedback
           </p>
         </a>
         <a
