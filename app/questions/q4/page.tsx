@@ -201,5 +201,6 @@ Looking forward to assisting you further and ensuring we find the best solution 
           </p>
         </a>
       </div>
+   </main>
   );
 }
