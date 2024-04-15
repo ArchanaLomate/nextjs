@@ -53,7 +53,8 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
+            				
+         Describe how you solved a challenge that one of your previous teams faced. How did you determine your solution was successful?
           </p>
         </a>
 
@@ -70,7 +71,9 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
+            				
+How would you compare Next.js with another framework?Feelfreetocompare with a framework of your choice.
+
           </p>
         </a>
 
@@ -87,11 +90,12 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Explore starter templates for Next.js.
+            A customer has reached out asking,“When should I choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?” Write a reply to the customer.
+
           </p>
         </a>
 
-        <a
+         <a
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
@@ -104,10 +108,12 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+ 								
+
+A customer has a project on Vercel and they want to redirect the/blog path to another website. Write a reply to the customer.
           </p>
         </a>
-               <a
+ <a
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
@@ -120,7 +126,9 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           Imagine that the customer from Question 4 responds with the following email.
+ 								
+
           </p>
         </a>
         <a
@@ -136,10 +144,15 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           Imagine that the customer from Question 4 responds with the following email.
+ 								
+“I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so why don't you just fix it for me instead of asking me questions.”
+ 								
+Write a reply to the customer addressing the concerns raised.
+
           </p>
         </a>
-        <a
+               <a
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
@@ -152,7 +165,12 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           A customer is  just getting started with Vercel and has questions about recommended options for third-party integrations for Monitoring or Logging. Knowing that:
+Vercel has in-house observability products						 										
+Vercel likes to guide processes,but Vercel doesn’t like to steer customers towards one solution or another, but demonstrates what the product can do.
+ 										
+How would you respond to the customer?
+
           </p>
         </a>
         <a
@@ -168,7 +186,8 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           A  customer new to Next.js and Vercel, asks about overages regarding serverless function execution. What would be the best way to help mitigate this? Feel free to use AI to help supplement your answer, but only use AI to help guide your answer and put it into your own words. You can help the customer by providing Vercel or Next.js resources if necessary.
+
           </p>
         </a>
         <a
@@ -184,7 +203,8 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+           How could we improve or alter this familiarization exercise? 
+
           </p>
         </a>
         <a
