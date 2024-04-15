@@ -30,14 +30,23 @@ export default function Home() {
       </div>
 
       <div>
-        <p>
-      Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
+
+        <p> A customer has a project on Vercel and they want to redirect the/blog path to another website. Write a reply to the customer. 
         </p>
+        <p>&nbsp;</p>
         <p>
-      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
+   For the redirection you can utilize Vercel's routing features. Here are the  simple steps you could follow : 
+        </p>
+        <p>&nbsp;</p>
+        <p>
+     1. Access your Vercel project's dashboard.
+     2. Navigate to the "Routes" section or find the "vercel.json" file within your project's main directory.
+     3. Introduce a new route configuration aimed at redirecting requests originating from "/blog" to the preferred destination URL.
+
       </p>
+        <p>&nbsp;</p>
         <p>
-      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
+If you need any further assistance or have additional questions, please feel free to let us know.
      </p>
       </div>
 
