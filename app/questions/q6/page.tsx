@@ -31,14 +31,20 @@ export default function Home() {
 
       <div>
         <p>
-      Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
+        Imagine that the customer from Question 5 responds with the following email.
+          </p>
+        <p>&nbsp;</p>
+ 					<p>			
+    “I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so why don't you just fix it for me instead of asking me questions.”
+          </p>		
+        <p>&nbsp;</p>
+        <p>
+Write a reply to the customer addressing the concerns raised.
         </p>
+        <p>&nbsp;</p>
         <p>
-      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
-      </p>
-        <p>
-      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
-     </p>
+I understand your frustration, and I'm here to assist you. Would you be available for a quick call? This will allow me to gather more details about the issue and determine if we can resolve it together during the call, or if further diagnosis is needed. Sharing your availability for a couple of time slots would be really helpful	
+        </p>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
