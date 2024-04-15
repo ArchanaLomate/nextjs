@@ -49,7 +49,7 @@ I am sharing some best practices and recommendations to help mitigate the overag
 <b>2.Cache Mechanism :</b>
           </p>
         <p>
-      Cache your responses using <a href="https://vercel.com/docs/edge-network/caching#using-vercel-functions" style="color:blue">EDGE CACHING</a> and <a href="https://vercel.com/docs/edge-network/headers#cache-control-header" style="color:blue">CACHE CONTROL HEADERS </a>. This can help reduce the number of invocations that your Functions receive and makes responses faster for users 
+      Cache your responses using <a href="https://vercel.com/docs/edge-network/caching#using-vercel-functions">EDGE CACHING</a> and <a href="https://vercel.com/docs/edge-network/headers#cache-control-header">CACHE CONTROL HEADERS </a>. This can help reduce the number of invocations that your Functions receive and makes responses faster for users 
       </p>
          <p>
            <p>&nbsp;</p>
