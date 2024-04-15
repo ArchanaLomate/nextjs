@@ -34,9 +34,11 @@ export default function Home() {
     Edge Functions are like small assistants present right at the edge of the internet, close to where your website users are. They're handy for quickly handling simple tasks without having to travel all the way back to the main server. For example, they can swiftly redirect users to different pages or tweak the website's behavior in minor ways. They're like helpers that work fast and efficiently right where they're needed the most. Streaming platforms like Netflix provide personalized recommendations in real-time. E commerce for dynamic pricing adjustments
 
         </p>
+         <p>&nbsp;</p>
         <p>
  Choose Serverless Functions when you have complicated tasks to handle in the background, like sorting through data, managing databases, or connecting with other apps and services. They're perfect for jobs that need to happen quietly in the background, without interrupting what users are doing. Plus, they're flexible and cost-efficient since they only work when needed, so you only pay for what you use.  Websites that handle e-commerce transactions often utilize serverless functions for tasks like processing payments, managing inventory, handling form submissions, and sending transactional emails.
       </p>
+         <p>&nbsp;</p>
         <p>
   Edge Middleware is a good choice when you want to make your website better and safer for everyone, right at the beginning of their visit. It's similar to having a team of helpers who can add extra security measures, make your website faster, and enforce certain rules for every visitor before they even get to the main part of your website.
      </p>
