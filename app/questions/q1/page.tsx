@@ -32,11 +32,11 @@ export default function Home() {
       <div className="relative z-[-1] flex place-items-center before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
        <p>
       Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
+     <br>
+      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
+      <br> 
+      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
      </p>
-        <p>We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.</p>
-       <p>Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
-     </p>
-        
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
