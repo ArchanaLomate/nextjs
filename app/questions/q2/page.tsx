@@ -40,20 +40,18 @@ export default function Home() {
     <td>Gatsby is ideal for creating status and content heavy websites </td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td> Next.js provides more flexibility and handle complex interactions like ecommerce websites </td>
+    <td> Gatsby.js is more streamlined with defined instructions and less customisations </td>
   </tr>
   <tr>
-    <td>Row 3, Cell 1</td>
-    <td>Row 3, Cell 2</td>
+    <td>Netflix's content platform utilizes Next.js for its client-facing web pages. Next.js helps Netflix deliver a fast and dynamic user experience for streaming movies and TV shows. </td>
+    <td>Eg: The financial times
+ Financial Times to deliver news articles, analysis, and multimedia content to readers with speed and reliability.
+</td>
   </tr>
   <tr>
-    <td>Row 4, Cell 1</td>
-    <td>Row 4, Cell 2</td>
-  </tr>
-  <tr>
-    <td>Row 5, Cell 1</td>
-    <td>Row 5, Cell 2</td>
+    <td> Next.JS uses file based routing where each page has its own file </td>
+    <td>Gatsby has central routing mechanism where all the routes are listed in one page </td>
   </tr>
 </table>
       </div>
