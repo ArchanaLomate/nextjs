@@ -47,13 +47,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Q1{" "}
+            Question 1
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">				
-         Describe how you solved a challenge that one of your previous teams faced. How did you determine your solution was successful?
+          <a href="/questions/q1">Challenge Solved </a>
           </p>
         </a>
 
