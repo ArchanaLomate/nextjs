@@ -30,14 +30,22 @@ export default function Home() {
       </div>
 
       <div>
-        <p>
-      Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
-        </p>
-        <p>
-      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
+        <p> Dear [Customer],</p>
+    <p>
+I'm here to assist you in your decision-making process regarding the selection of a monitoring and logging tool.
       </p>
         <p>
-      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
+Although this topic may have been discussed during the sales cycle, I want to ensure you're aware that Vercel also offers a similar capability. Here are some advantages of using Vercel's in-house tool:
+        </p>
+<p>
+1. Vercel's observability tools are seamlessly integrated with our platform, providing tailored monitoring and logging specifically designed for Vercel deployments.
+ </p> 
+ <p>       
+2. With Vercel, there are no additional expenses for utilizing our observability tools, as they are included as part of your Vercel subscription. This ensures a transparent and predictable pricing structure.
+</p>
+  <p>      
+   To better understand your requirements and showcase our capabilities, I suggest we engage in a detailed conversation with our technical team. Are there any specific priorities you have in mind for the integration, or are there any tools you're currently evaluating?
+Looking forward to assisting you further and ensuring we find the best solution for your needs.	
      </p>
       </div>
 
