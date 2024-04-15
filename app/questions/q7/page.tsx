@@ -42,9 +42,18 @@ I am sharing some best practices and recommendations to help mitigate the overag
         <p>
         Establishing monitoring and alerts in Vercel is a great way to track how you're using functions and managing costs. This keeps you in the loop about your usage habits and allows you to act early if you're getting close to set limits.You could refer to <a href="https://vercel.com/docs/pricing/serverless-functions#optimizing-function-duration">this</a> help documentation for the same. 
       </p>
+         <p>
+<b>2.Cache Mechanism :</b>
+          </p>
         <p>
-      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
-     </p>
+      Cache your responses using <a href="https://vercel.com/docs/edge-network/caching#using-vercel-functions">EDGE CACHING</a> and <a href="https://vercel.com/docs/edge-network/headers#cache-control-header">CACHE CONTROL HEADERS </a>. This can help reduce the number of invocations that your Functions receive and makes responses faster for users 
+      </p>
+         <p>
+<b> 3. Efficient Code :</b>
+          </p>
+        <p>
+   Create serverless functions that work well by cutting down on extra calculations, improving how you interact with the database, and storing data in cache whenever you can. This speeds up how quickly your functions run and ultimately saves you money on execution costs.
+      </p>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
