@@ -30,6 +30,9 @@ export default function Home() {
       </div>
 
       <div>
+        <p> Describe how you solved a challenge that one of your previous teams faced. How did you determine your solution was successful?
+ </p>
+          <p>&nbsp;</p>
         <p>
       Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
         </p>
