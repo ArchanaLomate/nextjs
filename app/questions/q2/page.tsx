@@ -30,7 +30,7 @@ export default function Home() {
       </div>
 
       <div>
-     <table border="1">
+     <table>
   <tr>
     <th>Column 1</th>
     <th>Column 2</th>
