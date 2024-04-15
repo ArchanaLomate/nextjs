@@ -37,9 +37,11 @@ How could we improve or alter this familiarization exercise?
 <p>
   I am genuinely impressed with the structure of the exercise. The sequence of questions is designed in such a way that it gradually guides you through without overwhelming you with too much information at once, preparing you for more complex questions later on.
       </p>
+          <p>&nbsp;</p>
         <p>
  Moreover, it's an effective method for introducing potential employees to our platform and other tools they'll be using regularly.
      </p>
+          <p>&nbsp;</p>
         <p>
         Additionally, it serves as a useful gauge of areas where candidates may need to improve
         </p>
