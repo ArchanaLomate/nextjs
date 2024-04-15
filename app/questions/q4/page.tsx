@@ -30,6 +30,15 @@ export default function Home() {
       </div>
 
       <div>
+
+        <p>
+        A customer is  just getting started with Vercel and has questions about recommended options for third-party integrations for Monitoring or Logging. Knowing that:
+Vercel has in-house observability products.Vercel likes to guide processes,but Vercel doesn’t like to steer customers towards one solution or another, but demonstrates what the product can do.
+        </p>
+        <p>&nbsp;</p>
+        <p> How would you respond to the customer? </p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
         <p> Dear [Customer],</p>
     <p>
 I'm here to assist you in your decision-making process regarding the selection of a monitoring and logging tool.
