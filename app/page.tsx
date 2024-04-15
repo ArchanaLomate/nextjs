@@ -83,12 +83,12 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            A customer has reached out asking,“When should I choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?” Write a reply to the customer.
+            How to choose between Edge Functions, Serverless Functions, or Edge Middleware 
           </p>
         </a>
 
          <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/questions/q4"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -100,7 +100,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-A customer has a project on Vercel and they want to redirect the/blog path to another website. Write a reply to the customer.
+         Reply to a customer querey
           </p>
         </a>
  <a
