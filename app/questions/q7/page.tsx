@@ -40,7 +40,7 @@ I am sharing some best practices and recommendations to help mitigate the overag
 <b>1. Keep an eye on the usage :</b>
           </p>
         <p>
-        Establishing monitoring and alerts in Vercel is a great way to track how you're using functions and managing costs. This keeps you in the loop about your usage habits and allows you to act early if you're getting close to set limits.You could refer to this help documentation for the same. 
+        Establishing monitoring and alerts in Vercel is a great way to track how you're using functions and managing costs. This keeps you in the loop about your usage habits and allows you to act early if you're getting close to set limits.You could refer to <a href="https://vercel.com/docs/pricing/serverless-functions#optimizing-function-duration">this</a> help documentation for the same. 
       </p>
         <p>
       Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
