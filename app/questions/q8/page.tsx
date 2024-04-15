@@ -31,14 +31,18 @@ export default function Home() {
 
       <div>
         <p>
-      Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
+How could we improve or alter this familiarization exercise? 
         </p>
-        <p>
-      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
+        <p>&nbsp;</p>
+<p>
+  I am genuinely impressed with the structure of the exercise. The sequence of questions is designed in such a way that it gradually guides you through without overwhelming you with too much information at once, preparing you for more complex questions later on.
       </p>
         <p>
-      Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
+ Moreover, it's an effective method for introducing potential employees to our platform and other tools they'll be using regularly.
      </p>
+        <p>
+        Additionally, it serves as a useful gauge of areas where candidates may need to improve
+        </p>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
