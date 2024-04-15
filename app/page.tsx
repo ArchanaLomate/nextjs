@@ -49,7 +49,7 @@ export default function Home() {
           <h2 className="mb-3 text-2xl font-semibold">
             Question 1
           </h2>
-          <pclassName="m-0 max-w-[30ch] text-sm opacity-50">				
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">				
           <a href="/questions/q1"> Challenge Solved </a>
           </p>
         </a>
