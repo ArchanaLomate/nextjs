@@ -32,12 +32,12 @@ export default function Home() {
       <div>
      <table>
   <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
+    <th>Next.js</th>
+    <th>Gatsby.js</th>
   </tr>
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
+    <td>Used for creating websites that require dynamic features and more real time updates</td>
+    <td>Gatsby is ideal for creating status and content heavy websites </td>
   </tr>
   <tr>
     <td>Row 2, Cell 1</td>
