@@ -30,6 +30,10 @@ export default function Home() {
       </div>
 
       <div>
+
+        <p> How would you compare Next.js with another framework ? Feelfreetocompare with a framework of your choice. 
+        </p>
+        <p>&nbsp;</p>
      <table>
   <tr>
     <th>Next.js</th>
