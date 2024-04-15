@@ -36,22 +36,21 @@ export default function Home() {
     <th>Gatsby.js</th>
   </tr>
   <tr>
-    <td>Used for creating websites that require dynamic features and more real time updates</td>
-    <td>Gatsby is ideal for creating status and content heavy websites </td>
+    <td>1. Used for creating websites that require dynamic features and more real time updates</td>
+    <td>1. Gatsby is ideal for creating status and content heavy websites </td>
   </tr>
   <tr>
-    <td> Next.js provides more flexibility and handle complex interactions like ecommerce websites </td>
-    <td> Gatsby.js is more streamlined with defined instructions and less customisations </td>
+    <td>2. Next.js provides more flexibility and handle complex interactions like ecommerce websites </td>
+    <td>2. Gatsby.js is more streamlined with defined instructions and less customisations </td>
   </tr>
   <tr>
-    <td>Netflix's content platform utilizes Next.js for its client-facing web pages. Next.js helps Netflix deliver a fast and dynamic user experience for streaming movies and TV shows. </td>
-    <td>Eg: The financial times
- Financial Times to deliver news articles, analysis, and multimedia content to readers with speed and reliability.
+    <td>3. Netflix's content platform utilizes Next.js for its client-facing web pages. Next.js helps Netflix deliver a fast and dynamic user experience for streaming movies and TV shows. </td>
+    <td>3. Financial Times to deliver news articles, analysis, and multimedia content to readers with speed and reliability.
 </td>
   </tr>
   <tr>
-    <td> Next.JS uses file based routing where each page has its own file </td>
-    <td>Gatsby has central routing mechanism where all the routes are listed in one page </td>
+    <td>4. Next.JS uses file based routing where each page has its own file </td>
+    <td>4. Gatsby has central routing mechanism where all the routes are listed in one page </td>
   </tr>
 </table>
       </div>
