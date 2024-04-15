@@ -30,6 +30,10 @@ export default function Home() {
       </div>
 
       <div>
+
+        <p> A customer has reached out asking,“When should I choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?” Write a reply to the customer.
+        </p>
+          <p>&nbsp;</p>
         <p>
     Edge Functions are like small assistants present right at the edge of the internet, close to where your website users are. They're handy for quickly handling simple tasks without having to travel all the way back to the main server. For example, they can swiftly redirect users to different pages or tweak the website's behavior in minor ways. They're like helpers that work fast and efficiently right where they're needed the most. Streaming platforms like Netflix provide personalized recommendations in real-time. E commerce for dynamic pricing adjustments
 
