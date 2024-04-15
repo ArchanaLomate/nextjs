@@ -30,11 +30,17 @@ export default function Home() {
       </div>
 
       <div>
-        <p>
-      Recently, we faced a challenge with the transition of certain integrations from free to paid, resulting in poor communication and customer dissatisfaction. To address this, I collaborated with the product documentation and tech solutions teams to create a new category, "self-serve integration," alongside the existing standard and custom options.
+        <p> 
+        A  customer new to Next.js and Vercel, asks about overages regarding serverless function execution. What would be the best way to help mitigate this? Feel free to use AI to help supplement your answer, but only use AI to help guide your answer and put it into your own words. You can help the customer by providing Vercel or Next.js resources if necessary.
         </p>
         <p>
-      We developed a clear process document outlining the commercial model for each integration type, empowering Customer Success Managers to communicate effectively with customers. This solution was rolled out through our internal LMS platform.
+I am sharing some best practices and recommendations to help mitigate the overages regarding serverless functions as below: 
+        </p>
+        <p>
+<b>1. Keep an eye on the usage :</b>
+          </p>
+        <p>
+        Establishing monitoring and alerts in Vercel is a great way to track how you're using functions and managing costs. This keeps you in the loop about your usage habits and allows you to act early if you're getting close to set limits.You could refer to this help documentation for the same. 
       </p>
         <p>
       Success was measured through an internal survey gauging feedback from Customer Success Managers on overall customer satisfaction, as well as by analyzing the opportunity pipeline and conversion rates for integrations, which showed positive changes attributed to improved communication and setting clear commercial expectations from the outset.
