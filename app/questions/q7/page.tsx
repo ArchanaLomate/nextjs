@@ -33,15 +33,18 @@ export default function Home() {
         <p> 
         A  customer new to Next.js and Vercel, asks about overages regarding serverless function execution. What would be the best way to help mitigate this? Feel free to use AI to help supplement your answer, but only use AI to help guide your answer and put it into your own words. You can help the customer by providing Vercel or Next.js resources if necessary.
         </p>
+        <p>&nbsp;</p>
         <p>
 I am sharing some best practices and recommendations to help mitigate the overages regarding serverless functions as below: 
         </p>
+        <p>&nbsp;</p>
         <p>
 <b>1. Keep an eye on the usage :</b>
           </p>
         <p>
         Establishing monitoring and alerts in Vercel is a great way to track how you're using functions and managing costs. This keeps you in the loop about your usage habits and allows you to act early if you're getting close to set limits.You could refer to <a href="https://vercel.com/docs/pricing/serverless-functions#optimizing-function-duration">this</a> help documentation for the same. 
       </p>
+        <p>&nbsp;</p>
          <p>
 <b>2.Cache Mechanism :</b>
           </p>
@@ -49,6 +52,7 @@ I am sharing some best practices and recommendations to help mitigate the overag
       Cache your responses using <a href="https://vercel.com/docs/edge-network/caching#using-vercel-functions">EDGE CACHING</a> and <a href="https://vercel.com/docs/edge-network/headers#cache-control-header">CACHE CONTROL HEADERS </a>. This can help reduce the number of invocations that your Functions receive and makes responses faster for users 
       </p>
          <p>
+           <p>&nbsp;</p>
 <b> 3. Efficient Code :</b>
           </p>
         <p>
