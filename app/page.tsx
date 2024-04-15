@@ -52,7 +52,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p>Challenge Solved</p>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">Challenge Solved</p>
         </a>
         <a
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
