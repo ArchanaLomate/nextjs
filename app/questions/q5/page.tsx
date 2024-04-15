@@ -30,7 +30,6 @@ export default function Home() {
       </div>
 
       <div>
-
         <p> A customer has a project on Vercel and they want to redirect the/blog path to another website. Write a reply to the customer. 
         </p>
         <p>&nbsp;</p>
@@ -42,7 +41,6 @@ export default function Home() {
      1. Access your Vercel project's dashboard.
      2. Navigate to the "Routes" section or find the "vercel.json" file within your project's main directory.
      3. Introduce a new route configuration aimed at redirecting requests originating from "/blog" to the preferred destination URL.
-
       </p>
         <p>&nbsp;</p>
         <p>
@@ -104,7 +102,6 @@ If you need any further assistance or have additional questions, please feel fre
             How to choose between Edge Functions, Serverless Functions, or Edge Middleware 
           </p>
         </a>
-
          <a
           href="/questions/q4"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
